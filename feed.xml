@@ -3,10 +3,42 @@
     <title>Finding Food</title>
     <link href="https://SRWNG.github.io/FindingFood/feed.xml" rel="self" />
     <link href="https://SRWNG.github.io/FindingFood" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2023-07-16T20:53:15+01:00</updated>
     <author>
         <name>ㅤ</name>
     </author>
     <id>https://SRWNG.github.io/FindingFood</id>
 
+    <entry>
+        <title>The best burger sauce</title>
+        <author>
+            <name>ㅤ</name>
+        </author>
+        <link href="https://SRWNG.github.io/FindingFood/the-best-burger-sauce.html"/>
+        <id>https://SRWNG.github.io/FindingFood/the-best-burger-sauce.html</id>
+
+        <updated>2023-07-16T20:53:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Burger sauce is inherently simple. Four ingredients, yet a burst of flavour that instantly levels up your burger game and will make people&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Burger sauce is inherently simple. Four ingredients, yet a burst of flavour that instantly levels up your burger game and will make people go, "they know how to cook". Its that simple. (Quick tip: use light mayo over normal mayo to save those calories for the actual burger)</p>
+<p> </p>
+<p><span style="text-decoration: underline;">Ingredients</span></p>
+<p>2 Tbsp Ketchup</p>
+<p>3 Tbsp Light Mayonnaise </p>
+<p>1 Tbsp American or Dijon Style Mustard</p>
+<p>1/2 Tsp Lemon Juice</p>
+<p> </p>
+<p><span style="text-decoration: underline;">Method</span></p>
+<p><strong>STEP 1 </strong></p>
+<p>Mix all ingredients in a bowl, until smooth and emulsified.</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
