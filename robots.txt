@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://SRWNG.github.io/FindingFood/sitemap.xml

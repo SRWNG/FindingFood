@@ -1,2 +1,0 @@
-# FindingFood
-Food made simple
