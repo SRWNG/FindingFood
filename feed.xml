@@ -3,12 +3,66 @@
     <title>Finding Food</title>
     <link href="https://SRWNG.github.io/FindingFood/feed.xml" rel="self" />
     <link href="https://SRWNG.github.io/FindingFood" />
-    <updated>2023-07-17T07:41:42+01:00</updated>
+    <updated>2023-07-17T17:46:44+01:00</updated>
     <author>
         <name>ㅤ</name>
     </author>
     <id>https://SRWNG.github.io/FindingFood</id>
 
+    <entry>
+        <title>Tomato Pizza/Pasta Sauce</title>
+        <author>
+            <name>ㅤ</name>
+        </author>
+        <link href="https://SRWNG.github.io/FindingFood/tomato-pizzapasta-sauce.html"/>
+        <id>https://SRWNG.github.io/FindingFood/tomato-pizzapasta-sauce.html</id>
+
+        <updated>2023-07-17T17:46:44+01:00</updated>
+            <summary>
+                <![CDATA[
+                    It hurts me when I see someone using store bought Pizza sauce. Like, its really simple and quick to make, yet it just&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>It hurts me when I see someone using store bought Pizza sauce. Like, its really simple and quick to make, yet it just tastes so much better. Just make this, and you'll agree. I promise</p>
+<p> </p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 33.2843%;"><strong>PREP TIME</strong></td>
+<td class="align-center" style="width: 33.2843%;"><strong>COOK TIME</strong></td>
+<td class="align-center" style="width: 33.2889%;"><strong>SERVES</strong></td>
+</tr>
+<tr>
+<td class="align-center" style="width: 33.2843%;">N/A</td>
+<td class="align-center" style="width: 33.2843%;">10-20 Minutes</td>
+<td class="align-center" style="width: 33.2889%;">5-10 Portions</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><span style="text-decoration: underline;">Ingredients</span></p>
+<p>1 Can Tomato Pasata or Chopped tomatoes</p>
+<p>1 Tbsp Oregano</p>
+<p>Pinch Sugar</p>
+<p>2 Tbsp Extra Virgin Olive Oil</p>
+<p>1 Garlic Clove</p>
+<p> </p>
+<p><span style="text-decoration: underline;">Method</span></p>
+<p><strong>STEP 1</strong></p>
+<p>Heat a pan and add the Olive Oil. Mince the garlic into fine peices and add to pan, stirring until aromatic and light brown.</p>
+<p><strong>STEP 2</strong></p>
+<p>Once the Garlic is browned, add the Pasata or Chopped Tomatoes and Oregano, stirring for around 5 minutes.</p>
+<p><strong>STEP 3 </strong></p>
+<p>Add the Sugar and Stir for another 5 minutes.</p>
+<p><strong>STEP 4</strong></p>
+<p>Cut the heat and allow to cool before topping pizza, or mix over pasta until covered evenly. </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Simple Vinaigrette</title>
         <author>
@@ -17,7 +71,7 @@
         <link href="https://SRWNG.github.io/FindingFood/simple-vinaigrette.html"/>
         <id>https://SRWNG.github.io/FindingFood/simple-vinaigrette.html</id>
 
-        <updated>2023-07-17T07:41:42+01:00</updated>
+        <updated>2023-07-17T17:39:32+01:00</updated>
             <summary>
                 <![CDATA[
                     Something about a Vinaigrette just completes a salad, turning a bland clump of random vegetables at the bottom of your fridge into a&hellip;

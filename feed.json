@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://SRWNG.github.io/FindingFood/tomato-pizzapasta-sauce.html",
+            "url": "https://SRWNG.github.io/FindingFood/tomato-pizzapasta-sauce.html",
+            "title": "Tomato Pizza/Pasta Sauce",
+            "summary": "It hurts me when I see someone using store bought Pizza sauce. Like, its really simple and quick to make, yet it just&hellip;",
+            "content_html": "<p>It hurts me when I see someone using store bought Pizza sauce. Like, its really simple and quick to make, yet it just tastes so much better. Just make this, and you'll agree. I promise</p>\n<p> </p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"align-center\" style=\"width: 33.2843%;\"><strong>PREP TIME</strong></td>\n<td class=\"align-center\" style=\"width: 33.2843%;\"><strong>COOK TIME</strong></td>\n<td class=\"align-center\" style=\"width: 33.2889%;\"><strong>SERVES</strong></td>\n</tr>\n<tr>\n<td class=\"align-center\" style=\"width: 33.2843%;\">N/A</td>\n<td class=\"align-center\" style=\"width: 33.2843%;\">10-20 Minutes</td>\n<td class=\"align-center\" style=\"width: 33.2889%;\">5-10 Portions</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><span style=\"text-decoration: underline;\">Ingredients</span></p>\n<p>1 Can Tomato Pasata or Chopped tomatoes</p>\n<p>1 Tbsp Oregano</p>\n<p>Pinch Sugar</p>\n<p>2 Tbsp Extra Virgin Olive Oil</p>\n<p>1 Garlic Clove</p>\n<p> </p>\n<p><span style=\"text-decoration: underline;\">Method</span></p>\n<p><strong>STEP 1</strong></p>\n<p>Heat a pan and add the Olive Oil. Mince the garlic into fine peices and add to pan, stirring until aromatic and light brown.</p>\n<p><strong>STEP 2</strong></p>\n<p>Once the Garlic is browned, add the Pasata or Chopped Tomatoes and Oregano, stirring for around 5 minutes.</p>\n<p><strong>STEP 3 </strong></p>\n<p>Add the Sugar and Stir for another 5 minutes.</p>\n<p><strong>STEP 4</strong></p>\n<p>Cut the heat and allow to cool before topping pizza, or mix over pasta until covered evenly. </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "ㅤ"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-17T17:39:16+01:00",
+            "date_modified": "2023-07-17T17:46:44+01:00"
+        },
+        {
             "id": "https://SRWNG.github.io/FindingFood/simple-vinaigrette.html",
             "url": "https://SRWNG.github.io/FindingFood/simple-vinaigrette.html",
             "title": "Simple Vinaigrette",
@@ -21,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2023-07-17T07:35:55+01:00",
-            "date_modified": "2023-07-17T07:41:42+01:00"
+            "date_modified": "2023-07-17T17:39:32+01:00"
         },
         {
             "id": "https://SRWNG.github.io/FindingFood/the-best-burger-sauce.html",
