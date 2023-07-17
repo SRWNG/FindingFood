@@ -10,18 +10,32 @@
     },
     "items": [
         {
+            "id": "https://SRWNG.github.io/FindingFood/simple-vinaigrette.html",
+            "url": "https://SRWNG.github.io/FindingFood/simple-vinaigrette.html",
+            "title": "Simple Vinaigrette",
+            "summary": "Something about a Vinaigrette just completes a salad, turning a bland clump of random vegetables at the bottom of your fridge into a&hellip;",
+            "content_html": "<p>Something about a Vinaigrette just completes a salad, turning a bland clump of random vegetables at the bottom of your fridge into a sharp, refreshing side to go along with almost every meal.</p>\n<p> </p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"align-center\" style=\"width: 33.2843%;\"><strong>PREP TIME</strong></td>\n<td class=\"align-center\" style=\"width: 33.2843%;\"><strong>COOK TIME</strong></td>\n<td class=\"align-center\" style=\"width: 33.2889%;\"><strong>SERVES</strong></td>\n</tr>\n<tr>\n<td class=\"align-center\" style=\"width: 33.2843%;\">5 Minutes</td>\n<td class=\"align-center\" style=\"width: 33.2843%;\">N/A</td>\n<td class=\"align-center\" style=\"width: 33.2889%;\">15-30 Salad Portions</td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"text-decoration: underline;\">Ingredients</span></p>\n<p>3 Tbsp Lemon Juice </p>\n<p>9 Tbsp Extra Virgin Olive Oil </p>\n<p> </p>\n<p><span style=\"text-decoration: underline;\">Method</span></p>\n<p><strong>STEP 1 </strong></p>\n<p>Mix all ingredients in a bowl and beat fast until emulsified and smooth.</p>\n<p> </p>\n<p><strong>TIP: You can change the quantities of the ingredients, as long as you follow a 1:3 ratio of Lemon Juice to Oil.</strong></p>",
+            "author": {
+                "name": "ㅤ"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-17T07:35:55+01:00",
+            "date_modified": "2023-07-17T07:41:42+01:00"
+        },
+        {
             "id": "https://SRWNG.github.io/FindingFood/the-best-burger-sauce.html",
             "url": "https://SRWNG.github.io/FindingFood/the-best-burger-sauce.html",
             "title": "The best burger sauce",
             "summary": "Burger sauce is inherently simple. Four ingredients, yet a burst of flavour that instantly levels up your burger game and will make people&hellip;",
-            "content_html": "<p>Burger sauce is inherently simple. Four ingredients, yet a burst of flavour that instantly levels up your burger game and will make people go, \"they know how to cook\". Its that simple. (Quick tip: use light mayo over normal mayo to save those calories for the actual burger)</p>\n<p><strong>PREP TIME     COOK TIME     SERVES</strong></p>\n<p>5 Minutes         N/A                    5-10 Burgers</p>\n<p><span style=\"text-decoration: underline;\">Ingredients</span></p>\n<p>2 Tbsp Ketchup</p>\n<p>3 Tbsp Light Mayonnaise </p>\n<p>1 Tbsp American or Dijon Style Mustard</p>\n<p>1/2 Tsp Lemon Juice</p>\n<p> </p>\n<p><span style=\"text-decoration: underline;\">Method</span></p>\n<p><strong>STEP 1 </strong></p>\n<p>Mix all ingredients in a bowl, until smooth and emulsified.</p>\n<p> </p>\n<p> </p>",
+            "content_html": "<p>Burger sauce is inherently simple. Four ingredients, yet a burst of flavour that instantly levels up your burger game and will make people go, \"they know how to cook\". Its that simple. (Quick tip: use light mayo over normal mayo to save those calories for the actual burger)</p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"align-center\" style=\"width: 33.2843%;\"><strong>PREP TIME</strong></td>\n<td class=\"align-center\" style=\"width: 33.2843%;\"><strong>COOK TIME</strong></td>\n<td class=\"align-center\" style=\"width: 33.2889%;\"><strong>SERVES</strong></td>\n</tr>\n<tr>\n<td class=\"align-center\" style=\"width: 33.2843%;\">5 Minutes</td>\n<td class=\"align-center\" style=\"width: 33.2843%;\">N/A</td>\n<td class=\"align-center\" style=\"width: 33.2889%;\">5 Burgers</td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"text-decoration: underline;\">Ingredients</span></p>\n<p>2 Tbsp Ketchup</p>\n<p>3 Tbsp Light Mayonnaise </p>\n<p>1 Tbsp American or Dijon Style Mustard</p>\n<p>1/2 Tsp Lemon Juice</p>\n<p> </p>\n<p><span style=\"text-decoration: underline;\">Method</span></p>\n<p><strong>STEP 1 </strong></p>\n<p>Mix all ingredients in a bowl, until smooth and emulsified.</p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "ㅤ"
             },
             "tags": [
             ],
             "date_published": "2023-07-16T20:53:15+01:00",
-            "date_modified": "2023-07-17T07:22:28+01:00"
+            "date_modified": "2023-07-17T07:36:04+01:00"
         }
     ]
 }

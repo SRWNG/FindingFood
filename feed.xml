@@ -3,12 +3,56 @@
     <title>Finding Food</title>
     <link href="https://SRWNG.github.io/FindingFood/feed.xml" rel="self" />
     <link href="https://SRWNG.github.io/FindingFood" />
-    <updated>2023-07-17T07:22:28+01:00</updated>
+    <updated>2023-07-17T07:41:42+01:00</updated>
     <author>
         <name>ㅤ</name>
     </author>
     <id>https://SRWNG.github.io/FindingFood</id>
 
+    <entry>
+        <title>Simple Vinaigrette</title>
+        <author>
+            <name>ㅤ</name>
+        </author>
+        <link href="https://SRWNG.github.io/FindingFood/simple-vinaigrette.html"/>
+        <id>https://SRWNG.github.io/FindingFood/simple-vinaigrette.html</id>
+
+        <updated>2023-07-17T07:41:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Something about a Vinaigrette just completes a salad, turning a bland clump of random vegetables at the bottom of your fridge into a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Something about a Vinaigrette just completes a salad, turning a bland clump of random vegetables at the bottom of your fridge into a sharp, refreshing side to go along with almost every meal.</p>
+<p> </p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 33.2843%;"><strong>PREP TIME</strong></td>
+<td class="align-center" style="width: 33.2843%;"><strong>COOK TIME</strong></td>
+<td class="align-center" style="width: 33.2889%;"><strong>SERVES</strong></td>
+</tr>
+<tr>
+<td class="align-center" style="width: 33.2843%;">5 Minutes</td>
+<td class="align-center" style="width: 33.2843%;">N/A</td>
+<td class="align-center" style="width: 33.2889%;">15-30 Salad Portions</td>
+</tr>
+</tbody>
+</table>
+<p><span style="text-decoration: underline;">Ingredients</span></p>
+<p>3 Tbsp Lemon Juice </p>
+<p>9 Tbsp Extra Virgin Olive Oil </p>
+<p> </p>
+<p><span style="text-decoration: underline;">Method</span></p>
+<p><strong>STEP 1 </strong></p>
+<p>Mix all ingredients in a bowl and beat fast until emulsified and smooth.</p>
+<p> </p>
+<p><strong>TIP: You can change the quantities of the ingredients, as long as you follow a 1:3 ratio of Lemon Juice to Oil.</strong></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The best burger sauce</title>
         <author>
@@ -17,7 +61,7 @@
         <link href="https://SRWNG.github.io/FindingFood/the-best-burger-sauce.html"/>
         <id>https://SRWNG.github.io/FindingFood/the-best-burger-sauce.html</id>
 
-        <updated>2023-07-17T07:22:28+01:00</updated>
+        <updated>2023-07-17T07:36:04+01:00</updated>
             <summary>
                 <![CDATA[
                     Burger sauce is inherently simple. Four ingredients, yet a burst of flavour that instantly levels up your burger game and will make people&hellip;
@@ -26,8 +70,20 @@
         <content type="html">
             <![CDATA[
                 <p>Burger sauce is inherently simple. Four ingredients, yet a burst of flavour that instantly levels up your burger game and will make people go, "they know how to cook". Its that simple. (Quick tip: use light mayo over normal mayo to save those calories for the actual burger)</p>
-<p><strong>PREP TIME     COOK TIME     SERVES</strong></p>
-<p>5 Minutes         N/A                    5-10 Burgers</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 33.2843%;"><strong>PREP TIME</strong></td>
+<td class="align-center" style="width: 33.2843%;"><strong>COOK TIME</strong></td>
+<td class="align-center" style="width: 33.2889%;"><strong>SERVES</strong></td>
+</tr>
+<tr>
+<td class="align-center" style="width: 33.2843%;">5 Minutes</td>
+<td class="align-center" style="width: 33.2843%;">N/A</td>
+<td class="align-center" style="width: 33.2889%;">5 Burgers</td>
+</tr>
+</tbody>
+</table>
 <p><span style="text-decoration: underline;">Ingredients</span></p>
 <p>2 Tbsp Ketchup</p>
 <p>3 Tbsp Light Mayonnaise </p>
