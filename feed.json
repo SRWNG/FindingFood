@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://SRWNG.github.io/FindingFood/pasta-dough.html",
+            "url": "https://SRWNG.github.io/FindingFood/pasta-dough.html",
+            "title": "Pasta Dough",
+            "summary": "Pasta Dough can be quite difficult, even though there are only 4 ingredients. It's just about the rolling, keeping it a beautiful texture&hellip;",
+            "content_html": "<p>Pasta Dough can be quite difficult, even though there are only 4 ingredients. It's just about the rolling, keeping it a beautiful texture without making it stick to surfaces. This recipe will definitely make people think you know how to navigate a kitchen. I've also made this recipe infinitely scalable, just for ease. Thank me later.</p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"align-center\" style=\"width: 33.2843%;\"><strong>PREP TIME</strong></td>\n<td class=\"align-center\" style=\"width: 33.2843%;\"><strong>COOK TIME</strong></td>\n<td class=\"align-center\" style=\"width: 33.2889%;\"><strong>SERVES</strong></td>\n</tr>\n<tr>\n<td class=\"align-center\" style=\"width: 33.2843%;\">15 + Resting time</td>\n<td class=\"align-center\" style=\"width: 33.2843%;\">1-2 Minutes</td>\n<td class=\"align-center\" style=\"width: 33.2889%;\">1 Serving</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><span style=\"text-decoration: underline;\">Ingredients</span></p>\n<p>100g 00 Pasta Flour</p>\n<p>1 Large Egg</p>\n<p>1 Tbsp Extra Virgin Olive Oil</p>\n<p>Pinch Salt</p>\n<p> </p>\n<p><span style=\"text-decoration: underline;\">Method</span></p>\n<p><strong>STEP 1</strong></p>\n<p>Mix the flour and salt until combined. Pour onto a clean surface and form a well.</p>\n<p><strong>STEP 2</strong></p>\n<p>Pour the egg and Oil into the middle of the well, and beat until combined, slowly adding flour until it forms a smooth and combined dough.</p>\n<p><strong>STEP 3 </strong></p>\n<p>Sit in a bowl and rest for atleast half an hour. </p>\n<p><strong>STEP 4</strong></p>\n<p>Using a pasta maching or bare elbow strength, roll out the dough and cut into strips.</p>\n<p><strong>STEP 5</strong></p>\n<p>Fill a pan with very salty water and bring to the boil. Dunk the pasta in and cook for about 1-2 minutes or until light and floating. </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "ㅤ"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-18T20:31:32+01:00",
+            "date_modified": "2023-07-18T20:31:32+01:00"
+        },
+        {
             "id": "https://SRWNG.github.io/FindingFood/tomato-pizzapasta-sauce.html",
             "url": "https://SRWNG.github.io/FindingFood/tomato-pizzapasta-sauce.html",
             "title": "Tomato Pizza/Pasta Sauce",
@@ -21,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2023-07-17T17:39:16+01:00",
-            "date_modified": "2023-07-17T17:46:44+01:00"
+            "date_modified": "2023-07-18T20:12:13+01:00"
         },
         {
             "id": "https://SRWNG.github.io/FindingFood/simple-vinaigrette.html",

@@ -3,12 +3,66 @@
     <title>Finding Food</title>
     <link href="https://SRWNG.github.io/FindingFood/feed.xml" rel="self" />
     <link href="https://SRWNG.github.io/FindingFood" />
-    <updated>2023-07-17T17:46:44+01:00</updated>
+    <updated>2023-07-18T20:31:32+01:00</updated>
     <author>
         <name>ㅤ</name>
     </author>
     <id>https://SRWNG.github.io/FindingFood</id>
 
+    <entry>
+        <title>Pasta Dough</title>
+        <author>
+            <name>ㅤ</name>
+        </author>
+        <link href="https://SRWNG.github.io/FindingFood/pasta-dough.html"/>
+        <id>https://SRWNG.github.io/FindingFood/pasta-dough.html</id>
+
+        <updated>2023-07-18T20:31:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Pasta Dough can be quite difficult, even though there are only 4 ingredients. It's just about the rolling, keeping it a beautiful texture&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Pasta Dough can be quite difficult, even though there are only 4 ingredients. It's just about the rolling, keeping it a beautiful texture without making it stick to surfaces. This recipe will definitely make people think you know how to navigate a kitchen. I've also made this recipe infinitely scalable, just for ease. Thank me later.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 33.2843%;"><strong>PREP TIME</strong></td>
+<td class="align-center" style="width: 33.2843%;"><strong>COOK TIME</strong></td>
+<td class="align-center" style="width: 33.2889%;"><strong>SERVES</strong></td>
+</tr>
+<tr>
+<td class="align-center" style="width: 33.2843%;">15 + Resting time</td>
+<td class="align-center" style="width: 33.2843%;">1-2 Minutes</td>
+<td class="align-center" style="width: 33.2889%;">1 Serving</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><span style="text-decoration: underline;">Ingredients</span></p>
+<p>100g 00 Pasta Flour</p>
+<p>1 Large Egg</p>
+<p>1 Tbsp Extra Virgin Olive Oil</p>
+<p>Pinch Salt</p>
+<p> </p>
+<p><span style="text-decoration: underline;">Method</span></p>
+<p><strong>STEP 1</strong></p>
+<p>Mix the flour and salt until combined. Pour onto a clean surface and form a well.</p>
+<p><strong>STEP 2</strong></p>
+<p>Pour the egg and Oil into the middle of the well, and beat until combined, slowly adding flour until it forms a smooth and combined dough.</p>
+<p><strong>STEP 3 </strong></p>
+<p>Sit in a bowl and rest for atleast half an hour. </p>
+<p><strong>STEP 4</strong></p>
+<p>Using a pasta maching or bare elbow strength, roll out the dough and cut into strips.</p>
+<p><strong>STEP 5</strong></p>
+<p>Fill a pan with very salty water and bring to the boil. Dunk the pasta in and cook for about 1-2 minutes or until light and floating. </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tomato Pizza/Pasta Sauce</title>
         <author>
@@ -17,7 +71,7 @@
         <link href="https://SRWNG.github.io/FindingFood/tomato-pizzapasta-sauce.html"/>
         <id>https://SRWNG.github.io/FindingFood/tomato-pizzapasta-sauce.html</id>
 
-        <updated>2023-07-17T17:46:44+01:00</updated>
+        <updated>2023-07-18T20:12:13+01:00</updated>
             <summary>
                 <![CDATA[
                     It hurts me when I see someone using store bought Pizza sauce. Like, its really simple and quick to make, yet it just&hellip;
